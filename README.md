@@ -1,2 +1,16 @@
-# Machine-Learning_A_Z_Udemy
+# Machine-Learning
 Udemy machine learning course 
+
+## Section 1
+
+Data : https://www.superdatascience.com/pages/machine-learning
+
+
+## Section 2
+
+Feature scaling  : Column wise
+
+## Section 3 : Data preprocessing
+
+
+
