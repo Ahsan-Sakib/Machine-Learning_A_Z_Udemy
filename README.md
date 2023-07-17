@@ -12,5 +12,6 @@ Feature scaling  : Column wise
 
 ## Section 3 : Data preprocessing
 
+reading reference : https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/
 
 
