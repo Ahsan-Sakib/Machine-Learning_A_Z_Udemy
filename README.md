@@ -80,5 +80,13 @@ reading reference : https://www.geeksforgeeks.org/data-preprocessing-machine-lea
         plt.show()
 
 
+## Section 5 : Multiple Linear Regression 
+
+P value - 
+
+We don't need feature scaling in multiple linear regression.
+
+
+
 
     
